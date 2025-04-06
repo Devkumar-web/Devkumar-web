@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dev kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar-web&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar-web" alt="devkumar-web" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/devkuma89723731" target="blank"><img src="https://img.shields.io/twitter/follow/devkuma89723731?logo=twitter&style=for-the-badge" alt="devkuma89723731" /></a> </p>
+
+<img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"> 
 
 - 🔭 I’m currently working on [Uber-clone](https://github.com/Devkumar-web/Uber-clone)
 
