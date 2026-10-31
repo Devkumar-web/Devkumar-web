@@ -1,41 +1,203 @@
-<h1 align="center">Hi 👋, I'm Dev kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<div align="center">
 
+# Hi, I'm Dev Kumar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkumar-web&label=Profile%20views&color=0e75b6&style=flat" alt="devkumar-web" /> </p>
+### M.Tech CSE @ IIIT Bangalore | Aspiring Software Development Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkumar-web" alt="devkumar-web" /></a> </p>
+**Building software. Solving problems. Understanding systems.**
 
-<p align="left"> <a href="https://twitter.com/devkuma89723731" target="blank"><img src="https://img.shields.io/twitter/follow/devkuma89723731?logo=twitter&style=for-the-badge" alt="devkuma89723731" /></a> </p>
+I am a postgraduate Computer Science student passionate about building efficient software, solving challenging problems, and understanding the engineering behind scalable systems.
 
-<img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"> 
+My interests span **Data Structures & Algorithms, Operating Systems, System Design, Backend Development, and Full-Stack Engineering**.
 
-- 🔭 I’m currently working on [AI-Agent-Interview](https://prep-wise-lovat.vercel.app/)
+I enjoy exploring computer science fundamentals, implementing concepts through practical projects, and continuously improving my software engineering skills.
 
-- 🌱 I’m currently learning **React , DSA**
+<img src="https://komarev.com/ghpvc/?username=devkumar-web&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Devkumar-web?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers" />
 
-- 💬 Ask me about **react,next.js**
+</div>
 
-- 📫 How to reach me **devkrajput498@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am Boring**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devkuma89723731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkuma89723731" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/here-is-dev007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here-is-dev007" height="30" width="40" /></a>
-<a href="https://instagram.com/x_ceps_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_ceps_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dev_peace_42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dev_peace_42" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devkrajput498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devkrajput498" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devnoobishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devnoobishere" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devkrajmm1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devkrajmm1k" height="30" width="40" /></a>
-</p>
+- 🎓 Pursuing **M.Tech in Computer Science and Engineering at IIIT Bangalore**.
+- 💻 Primary programming language: **C++**.
+- 🧩 Practicing Data Structures & Algorithms and strengthening problem-solving skills.
+- ⚙️ Exploring Linux System Programming, Operating Systems, and low-level system concepts.
+- 🏗️ Learning High-Level and Low-Level System Design.
+- 🌐 Interested in Full-Stack Development and Backend Engineering.
+- 📚 Focused on strengthening core Computer Science fundamentals for Software Engineering roles.
+- 📫 Email: **[devkrajput498@gmail.com](mailto:devkrajput498@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkumar-web&show_icons=true&locale=en&layout=compact" alt="devkumar-web" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkumar-web&show_icons=true&locale=en" alt="devkumar-web" /></p>
+Projects demonstrating my interests in software development, problem-solving, and computer science.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkumar-web&" alt="devkumar-web" /></p>
+### 1. Prep-Wise
+
+**Interview Preparation Platform**
+
+A full-stack interview preparation application designed to support structured learning and interview preparation.
+
+- Application: [Live Demo](https://prep-wise-lovat.vercel.app/)
+- Source Code: [GitHub Repository](https://github.com/Devkumar-web/Prep-Wise)
+
+### 2. Custom Chess Game
+
+**Game Development | Programming Logic**
+
+A custom chess game implementation focused on game logic, programming fundamentals, and application development.
+
+- [View Repository](https://github.com/Devkumar-web/Custom-Chess-Game)
+
+### 3. Linux System Programming
+
+**C | Linux | Operating Systems**
+
+A collection of practical implementations exploring Linux system calls and Operating System internals.
+
+Topics include:
+- File Management and Process Management
+- Process Creation and Synchronization
+- Signals, Timers and Threads
+- Pipes and FIFO
+- Message Queues and Shared Memory
+- Semaphores and Socket Programming
+
+- [View Repository](https://github.com/Devkumar-web/linux-system-programming)
+
+### 4. ALGO-JOURNEY
+
+**C++ | Data Structures & Algorithms**
+
+A structured collection of DSA implementations, coding problems, and algorithmic problem-solving practice.
+
+- [View Repository](https://github.com/Devkumar-web/ALGO-JOURNEY)
+
+### 5. pie-chat
+
+**Application Development**
+
+A chat application development project.
+
+- [View Repository](https://github.com/Devkumar-web/pie-chat)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python" alt="C++, C, Java, JavaScript, Python" />
+</div>
+
+### Frontend Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+</div>
+
+### Backend Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+</div>
+
+### Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+</div>
+
+### Tools and Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode" alt="Linux, Git, GitHub, Postman, VS Code" />
+</div>
+
+---
+
+## 📚 Core Computer Science Interests
+
+| Area | Topics |
+|---|---|
+| Data Structures & Algorithms | Arrays, Trees, Graphs, Dynamic Programming, Greedy, Heaps, Segment Trees |
+| Operating Systems | Processes, Threads, Scheduling, Synchronization, Memory Management |
+| System Programming | Linux System Calls, IPC, Signals, Pipes, Shared Memory, Semaphores, Sockets |
+| Object-Oriented Programming | Abstraction, Encapsulation, Inheritance, Polymorphism, Design Principles |
+| Database Management | SQL, Relational Databases, MongoDB, Database Fundamentals |
+| System Design | HLD, LLD, Scalability, Distributed Systems, Design Patterns |
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/devnoobishere">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="https://www.codechef.com/users/dev_peace_42">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+
+<a href="https://www.hackerrank.com/devkrajput498">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/devkrajmm1k">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=devkumar-web&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devkumar-web&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=devkumar-web&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/here-is-dev007">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/devkuma89723731">
+<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+</a>
+
+<a href="https://instagram.com/x_ceps_">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="mailto:devkrajput498@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile! ⭐**
+
+*Always learning, building, and exploring the fundamentals of computer science.*
+
+</div>
